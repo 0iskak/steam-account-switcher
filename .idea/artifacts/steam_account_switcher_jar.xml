@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="steam-account-switcher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/steam_account_switcher_jar</output-path>
+    <root id="archive" name="steam-account-switcher.jar">
+      <element id="module-output" name="steam-account-switcher" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/flatlaf-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lombok-1.18.22.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
